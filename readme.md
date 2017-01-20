@@ -56,8 +56,8 @@ Communicates to ***Monopolizer*** API.
 
 **BeatifulMind Project**
 
-1. ***UserService**:New customer "user" is created via BeautifulMind\UserService.*
-2. ***AuditService**: Audit history of the application taking place are done via BeautifulMind\AuditService*.
+1. ***UserService***: New customer "user" is created via BeautifulMind\UserService.*
+2. ***AuditService***: Audit history of the application taking place are done via BeautifulMind\AuditService*.
 
 ## High Level Overview ##
 
