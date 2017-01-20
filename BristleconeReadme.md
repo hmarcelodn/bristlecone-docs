@@ -59,3 +59,9 @@ Communicates to ***Monopolizer*** API.
 1. ***UserService**:New customer "user" is created via BeautifulMind\UserService.*
 2. ***AuditService**: Audit history of the application taking place are done via BeautifulMind\AuditService*.
 
+## High Level Overview ##
+
+Application High Level Overview.
+
+
+![](https://raw.githubusercontent.com/hmarcelodn/bristlecone-docs/master/BristleCone%20OV.png)
