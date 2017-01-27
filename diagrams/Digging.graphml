@@ -16,7 +16,6 @@
     <data key="d0"/>
     <node id="n0" yfiles.foldertype="folder">
       <data key="d4"/>
-      <data key="d5"/>
       <data key="d6">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="1">
@@ -31,7 +30,7 @@
               <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
             </y:GroupNode>
             <y:GroupNode>
-              <y:Geometry height="219.0" width="219.0" x="109.0" y="121.0"/>
+              <y:Geometry height="219.0" width="219.0" x="-50.0" y="-78.0"/>
               <y:Fill color="#F5F5F5" transparent="false"/>
               <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
               <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="219.0" x="0.0" y="0.0">1</y:NodeLabel>
@@ -46,7 +45,6 @@
       <graph edgedefault="directed" id="n0:">
         <node id="n0::n0" yfiles.foldertype="folder">
           <data key="d4"/>
-          <data key="d5"/>
           <data key="d6">
             <y:ProxyAutoBoundsNode>
               <y:Realizers active="1">
@@ -76,14 +74,12 @@
           <graph edgedefault="directed" id="n0::n0:"/>
         </node>
         <node id="n0::n1">
-          <data key="d5"/>
           <data key="d6">
             <y:ShapeNode>
               <y:Geometry height="65.0" width="69.0" x="503.0" y="176.0"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#339966" type="line" width="2.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="52.029296875" x="8.4853515625" y="15.798828125">Request 
-Router<y:LabelModel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="44.025390625" x="12.4873046875" y="23.1494140625">Facade<y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
                 </y:LabelModel>
                 <y:ModelParameter>
@@ -95,7 +91,6 @@ Router<y:LabelModel>
           </data>
         </node>
         <node id="n0::n2">
-          <data key="d5"/>
           <data key="d6">
             <y:ShapeNode>
               <y:Geometry height="146.0" width="163.0" x="307.0" y="302.0"/>
@@ -113,7 +108,6 @@ Router<y:LabelModel>
           </data>
         </node>
         <node id="n0::n3">
-          <data key="d5"/>
           <data key="d6">
             <y:ShapeNode>
               <y:Geometry height="77.0" width="94.0" x="610.0" y="324.0"/>
@@ -131,7 +125,6 @@ Router<y:LabelModel>
           </data>
         </node>
         <node id="n0::n4">
-          <data key="d5"/>
           <data key="d6">
             <y:ShapeNode>
               <y:Geometry height="30.0" width="60.0" x="627.0" y="302.0"/>
@@ -149,7 +142,6 @@ Router<y:LabelModel>
           </data>
         </node>
         <node id="n0::n5">
-          <data key="d5"/>
           <data key="d6">
             <y:ShapeNode>
               <y:Geometry height="30.0" width="60.0" x="560.0" y="347.5"/>
@@ -167,7 +159,6 @@ Router<y:LabelModel>
           </data>
         </node>
         <node id="n0::n6">
-          <data key="d5"/>
           <data key="d6">
             <y:ShapeNode>
               <y:Geometry height="30.0" width="60.0" x="358.5" y="284.0"/>
@@ -185,7 +176,6 @@ Router<y:LabelModel>
           </data>
         </node>
         <node id="n0::n7">
-          <data key="d5"/>
           <data key="d6">
             <y:ShapeNode>
               <y:Geometry height="30.0" width="60.0" x="459.0" y="347.5"/>
@@ -203,7 +193,6 @@ Router<y:LabelModel>
           </data>
         </node>
         <edge id="n0::e0" source="n0::n7" target="n0::n5">
-          <data key="d9"/>
           <data key="d10">
             <y:PolyLineEdge>
               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -214,7 +203,6 @@ Router<y:LabelModel>
           </data>
         </edge>
         <edge id="n0::e1" source="n0::n1" target="n0::n0">
-          <data key="d9"/>
           <data key="d10">
             <y:PolyLineEdge>
               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -225,7 +213,6 @@ Router<y:LabelModel>
           </data>
         </edge>
         <edge id="n0::e2" source="n0::n1" target="n0::n4">
-          <data key="d9"/>
           <data key="d10">
             <y:PolyLineEdge>
               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -244,7 +231,6 @@ Router<y:LabelModel>
           </data>
         </edge>
         <edge id="n0::e3" source="n0::n1" target="n0::n6">
-          <data key="d9"/>
           <data key="d10">
             <y:PolyLineEdge>
               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
